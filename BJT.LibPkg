@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=BJT.html
+DItemRevisionGUID=
+
 [Generic_IntLibOptions]
 OldFormat=False
 
